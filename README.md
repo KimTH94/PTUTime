@@ -35,7 +35,7 @@
   - 관리자 페이지 기출 문제 등록
 ![기능7](http://112.149.7.38:8090/Final_Minimap/php/Alpago7.png)
 
-- 관련 PPT 다운로드
+- 관련 PPT 다운로드 <br>
 [PTUTime PPT 다운로드](http://112.149.7.38:8090/Final_Minimap/Download/PTUtime.jsp) 
 
 - 결과 <br>
