@@ -24,7 +24,7 @@
 ![기능2](http://112.149.7.38:8090/Final_Minimap/php/p2.png)
   - 중고 및 학과별 게시판 <br>
 ![기능3](http://112.149.7.38:8090/Final_Minimap/php/p3.png)
-  - 실시간 익명 채팅
+  - 실시간 익명 채팅 <br>
 ![기능4](http://112.149.7.38:8090/Final_Minimap/php/p4.png)
 
 
