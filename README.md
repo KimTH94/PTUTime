@@ -33,8 +33,8 @@
 
 - 결과 <br>
   - 소프트웨어학과 공모전 대상 <br>
-<img src="http://http://myminimap.kr/kim/pt1.jpg" width="500" height="500"><br>
+<img src="http://myminimap.kr/kim/pt1.jpg" width="500" height="500"><br>
   - 협업활동 발표 최우수 <br>
-<img src="http://http://myminimap.kr/kim/pt2.jpg" width="500" height="500"><br>
+<img src="http://myminimap.kr/kim/pt2.jpg" width="500" height="500"><br>
   - 협업활동 활동 장려 <br>
-<img src="http://http://myminimap.kr/kim/pt3.jpg" width="500" height="500"><br>
+<img src="http://myminimap.kr/kim/pt3.jpg" width="500" height="500"><br>
