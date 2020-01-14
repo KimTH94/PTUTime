@@ -19,22 +19,22 @@
 
 - <h3>구현 기능 소개</h3>
   - 메인 화면
-![기능1](http://112.149.7.38:8090/Final_Minimap/php/p1.png)
+![기능1](http://http://myminimap.kr/kim/p1.png)
   - 학사일정 <br>
-![기능2](http://112.149.7.38:8090/Final_Minimap/php/p2.png)
+![기능2](http://http://myminimap.kr/kim/p2.png)
   - 중고 및 학과별 게시판 <br>
-![기능3](http://112.149.7.38:8090/Final_Minimap/php/p3.png)
+![기능3](http://http://myminimap.kr/kim/p3.png)
   - 실시간 익명 채팅 <br>
-![기능4](http://112.149.7.38:8090/Final_Minimap/php/p4.png)
+![기능4](http://http://myminimap.kr/kim/p4.png)
 
 
 - 관련 PPT 다운로드 <br>
-[PTUTime PPT 다운로드](http://112.149.7.38:8090/Final_Minimap/Download/PTUtime.jsp) 
+[PTUTime PPT 다운로드](http://http://myminimap.kr/kim/pt.pptx)
 
 - 결과 <br>
   - 소프트웨어학과 공모전 대상 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/PTUtime1.jpg" width="500" height="500"><br>
+<img src="http://http://myminimap.kr/kim/pt1.png" width="500" height="500"><br>
   - 협업활동 발표 최우수 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/PTUtime3.jpg" width="500" height="500"><br>
+<img src="http://http://myminimap.kr/kim/pt2.png" width="500" height="500"><br>
   - 협업활동 활동 장려 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/PTUtime2.jpg" width="500" height="500"><br>
+<img src="http://http://myminimap.kr/kim/pt3.png" width="500" height="500"><br>
